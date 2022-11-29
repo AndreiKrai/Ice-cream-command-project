@@ -5,7 +5,7 @@
   "homepage": "https://AndreiKrai.github.io/Ice-cream-command-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-amateurs/"
+    "build": "parcel build src/*.html --public-url /Ice-cream-command-project/"
   },
   "repository": {
     "type": "git",
