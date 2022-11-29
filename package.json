@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vokoloven.github.io/ice-cream-amateurs",
+  "homepage": "https://AndreiKrai.github.io/Ice-cream-command-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ice-cream-amateurs/"
